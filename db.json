@@ -1,0 +1,22 @@
+{
+  "todos": [
+    {
+      "id": "845f8405-ddd4-4e38-9877-6df3f962e079",
+      "title": "react",
+      "isDone": false,
+      "createdDate": "08/03/2024"
+    },
+    {
+      "id": "fc4c53a4-19f6-40dc-a994-5ef1e2ec2afa",
+      "title": "typescript",
+      "isDone": false,
+      "createdDate": "08/03/2024"
+    },
+    {
+      "id": "103e1b39-0e87-461c-a5dd-5ef4edf443d3",
+      "title": "react-redux",
+      "isDone": false,
+      "createdDate": "08/03/2024"
+    }
+  ]
+}
